@@ -1,3 +1,8 @@
+<!--
+ * @Author: Raymond Mingdong
+ * @Date: 2022-04-16 14:01:50
+ * @Description: In User Settings Edit
+-->
 ---
 permalink: /
 title: ""
@@ -18,12 +23,13 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09 - Now*, Hong Kong University of Science and Technology, PhD student in Robotics and Autonomous Systems, Supervisor: Prof. Yiwen Wang 
+- *2018.09 - 2021.03*, Zhejiang University, Master in Mechanical Engineering, Supervisor: Prof. Yixiong Feng
+- *2013.09 - 2018.07*, Tongji University, Bachelor in Mechanical Engineering
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2022.04*: The paper of EMBC 2022 is accepted 
+- *2021.09*: Join CCEL Group of HKUST
 
 # 📝 Publications 
 1.  **Mingdong Li**, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, 2022 44rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC). IEEE, 2022. (accepted)
@@ -35,9 +41,9 @@ redirect_from:
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.

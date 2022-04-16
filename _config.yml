@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingdong Li (Raymond)"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "I am interested in modeling single neuronal behavior and neural connectivity in the point process framework. Currently, I am working on point process modeling and neural adaptation prediction for brain control in BMIs. "
 repository               : "mingdong23/mingdong23.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -22,8 +22,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Mingdong Li"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  avatar           : "images/profile.jpg"
+  bio              : "Hong Kong University of Science and Technology"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
