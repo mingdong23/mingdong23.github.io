@@ -28,6 +28,7 @@ author:
   employer         :
   pubmed           : 
   googlescholar    :  # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  CV               : "https://drive.google.com/file/d/1so8uxdsuAj3vlGVChhCj0huzFwfS1yjo/view?usp=sharing"
   email            : "mlidr@connect.ust.hk"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -57,6 +58,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+
+  
 
 
 # Reading Files

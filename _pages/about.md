@@ -41,7 +41,7 @@ redirect_from:
 
 
 # 💻 Internships & Volunteering
-- Product Management Intern, Schindler China Headquarters, Shanghai, *2017.11 - 2018.03*
-- Coordinator of volunteers, 2015 China Auto Forum.
-- Tongji University Welcome Days Volunteer.
-- Outstanding member of Tongji University Students' Union.
+- *2017.11 - 2018.03*: Product Management Intern, Schindler China Headquarters, Shanghai, 
+- *2017.09*: Tongji University Welcome Days Volunteer.
+- *2015.04*: Coordinator of volunteers, 2015 China Auto Forum.
+- *2014.06*: Outstanding member of Tongji University Students' Union.
