@@ -34,15 +34,15 @@ redirect_from:
 - *2021.03*: Graduate from Zhejiang University!
 
 # 📝 Publications 
-1. **Mingdong Li**, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, *2022 44rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC).* IEEE, 2022. (accepted)
-2. Yixiong Feng, **Mingdong Li**, Shanhe Lou*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, *Transaction of the ASME, Journal of Computing and Information Science in Engineering*, 2021. (IF = 1.855)
-<!-- 3. **Mingdong Li**, Shanhe Lou*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A cerebellar operant conditioning-inspired constraint satisfaction approach for product design concept generation, *International Journal of Production Research*, 2022. (under review, IF = 8.568) -->
-<!-- 4. Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, **Mingdong Li**, Shanhe Lou, Jianrong Tan. A semantic analysis driven customer requirements mining method for product conceptual design, ***Scientific Reports***, 2021. (under second revision, IF = 4.379) -->
+1. **Mingdong Li**, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang\*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, *2022 44rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*. IEEE, 2022. (accepted)
+2. Yixiong Feng, **Mingdong Li**, Shanhe Lou\*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, *Transaction of the ASME, Journal of computing and Information Science in Engineering*, 2021. (IF = 1.855)
+<!-- 3. **Mingdong Li**, Shanhe Lou\*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A cerebellar operant conditioning-inspired constraint satisfaction approach for product design concept generation, International Journal of Production Research, 2022. (under review, IF = 8.568) -->
+<!-- 4. Xuanyu Wu, Zhaoxi Hong\*, Yixiong Feng, **Mingdong Li**, Shanhe Lou, Jianrong Tan. A semantic analysis driven customer requirements mining method for product conceptual design, *Scientific Reports*, 2021. (under second revision, IF = 4.379) -->
    
 
 # 🏆 Honors and Awards
 - *2021.03*: Zhejiang University Graduation Scholarship (Top 2 post graduates of each college in the graduation year)
-- *2019.10*: Rank 10 in ZHEJIANG Lab Cup International AI Competition-Multiple Objects Tracking
+- *2019.10*: Rank 10 in ZHEJIANG Lab Cup International AI Competition (Multiple Objects Tracking)
 - *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
 - *2016.05*: 1st prize in Shanghai College Mechanical Innovation Competition 
 - *2015.09*: 2nd prize in Shanghai Division of National Mathematical Modeling Contest 
