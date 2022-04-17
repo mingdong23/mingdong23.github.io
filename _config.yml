@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Mingdong Li (Raymond)"
-description              : "I am interested in modeling single neuronal behavior and neural connectivity in the point process framework. Currently, I am working on point process modeling and neural adaptation prediction for brain control in BMIs. "
+description              : "I am working in modeling single neuronal behavior and neural connectivity in the point process framework for Brain Machine Interfaces "
 repository               : "mingdong23/mingdong23.github.io"
 google_scholar_stats_use_cdn : false
 
