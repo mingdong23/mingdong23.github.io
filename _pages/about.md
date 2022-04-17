@@ -1,3 +1,8 @@
+<!--
+ * @Author: Raymond Mingdong
+ * @Date: 2022-04-17 16:41:13
+ * @Description: In User Settings Edit
+-->
 ---
 permalink: /
 title: ""
@@ -17,16 +22,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-*"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir. Ich sehe sie beide vor mir und verknüpfe sie unmittelbar mit dem Bewusstsein meiner Existenz.
-"*
+*"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir. Ich sehe sie beide vor mir und verknüpfe sie unmittelbar mit dem Bewusstsein meiner Existenz."*
 
 [My Resume](https://drive.google.com/file/d/1so8uxdsuAj3vlGVChhCj0huzFwfS1yjo/view?usp=sharing)
 
 **Reserarch Interest**: Brain-machine Interfaces, Robotics, Signal Analysis
 
 # 📖 Educations
-- *2021.09 - Now*, Hong Kong University of Science and Technology, PhD student in Robotics and Autonomous Systems, Supervisor: Prof. Yiwen Wang 
-- *2018.09 - 2021.03*, Zhejiang University, Master in Mechanical Engineering, Supervisor: Prof. Yixiong Feng
+- *2021.09 - Now*, Hong Kong University of Science and Technology, PhD student in Robotics and Autonomous Systems
+- *2018.09 - 2021.03*, Zhejiang University, Master in Mechanical Engineering
 - *2013.09 - 2018.07*, Tongji University, Bachelor in Mechanical Engineering
 
 # 🔥 News
@@ -51,7 +55,7 @@ redirect_from:
 
 
 # 💻 Internships and Volunteering
-- *2017.11 - 2018.03*: Product Management Intern, Schindler China Headquarters, Shanghai, 
+- *2017.11 - 2018.03*: Product Management Intern, Schindler China Headquarters, Shanghai. 
 - *2017.09*: Tongji University Welcome Days Volunteer.
 - *2015.04*: Coordinator of volunteers, China Auto Forum.
 - *2014.06*: Outstanding member of Tongji University Students' Union.
