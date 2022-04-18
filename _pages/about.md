@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-*"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir. Ich sehe sie beide vor mir und verknüpfe sie unmittelbar mit dem Bewusstsein meiner Existenz."*
+*"Zwei Dinge erfüllen das Gemüt mit immer neuer und zunehmender Bewunderung und Ehrfurcht, je öfter und anhaltender sich das Nachdenken damit beschäftigt: Der bestirnte Himmel über mir und das moralische Gesetz in mir."*
 
 [My Resume](https://drive.google.com/file/d/1so8uxdsuAj3vlGVChhCj0huzFwfS1yjo/view?usp=sharing)
 
