@@ -42,14 +42,13 @@ redirect_from:
 
 # 🏆 Honors and Awards
 - *2021.03*: Zhejiang University Graduation Scholarship (Top 2 postgraduates of each college in the graduation year)
-- *2019.10*: Rank 10 in ZHEJIANG Lab Cup International AI Competition (Multiple Objects Tracking)
+- *2019.10*: Excellence Prize (Rank 10) in ZHEJIANG Lab Cup International AI Competition (Multiple Objects Tracking)
 - *2016.07*: 1st prize in No.7 National College Mechanical Design Innovation Competition 
 - *2016.05*: 1st prize in Shanghai College Mechanical Innovation Competition 
-- *2015.09*: 2nd prize in Shanghai Division of National Mathematical Modeling Contest 
 - *2013 - 2018*: Tongji Academic Scholarship (2nd prize & 3rd prize)
 
 
-# 💻 Internships and Volunteering
+# 💻 Internships and Activities
 - *2017.11 - 2018.03*: Product Management Intern, Schindler China Headquarters, Shanghai. 
 - *2017.09*: Tongji University Welcome Days Volunteer.
 - *2015.04*: Coordinator of volunteers, China Auto Forum.
