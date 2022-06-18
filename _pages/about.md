@@ -33,12 +33,18 @@ redirect_from:
 - *2021.09*: Join CCEL Group of HKUST!
 - *2021.03*: Graduate from Zhejiang University!
 
-# 📝 Publications 
-1. **Mingdong Li**, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang\*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, *2022 44rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)*. IEEE, 2022. (accepted)
-2. Yixiong Feng, **Mingdong Li**, Shanhe Lou\*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, *Transaction of the ASME, Journal of computing and Information Science in Engineering*, 2021. (IF = 1.855)
-<!-- 3. **Mingdong Li**, Shanhe Lou\*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A cerebellar operant conditioning-inspired constraint satisfaction approach for product design concept generation, International Journal of Production Research, 2022. (under review, IF = 8.568) -->
-<!-- 4. Xuanyu Wu, Zhaoxi Hong\*, Yixiong Feng, **Mingdong Li**, Shanhe Lou, Jianrong Tan. A semantic analysis driven customer requirements mining method for product conceptual design, *Scientific Reports*, 2021. (under second revision, IF = 4.379) -->
-   
+# 📝 Publications
+<ol> 
+
+<!-- <li><b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Hao Zheng, Bingtao Hu, Jianrong Tan. A cerebellar operant conditioning-inspired constraint satisfaction approach for product design concept generation, International Journal of Production Research, 2022. (under review, IF = 8.568)</li> -->
+
+<li><b>Mingdong Li</b>, Shuhang Chen, Xi Liu, Zhiwei Song, Yiwen Wang*. Modeling Neural Connectivity in a Point-Process Analogue of Kalman Filter, <b>2022 44rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)</b>. IEEE, 2022. (accepted)</li>
+
+<li>Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou*, Yicong Gao, Jianrong Tan. A Digital Twin-Driven Method for Product Performance Evaluation Based on Intelligent Psycho-Physiological Analysis, <b>Transaction of the ASME, Journal of computing and Information Science in Engineering</b>, 2021. (IF = 1.855)</li>
+
+<li>Xuanyu Wu, Zhaoxi Hong*, Yixiong Feng, <b>Mingdong Li</b>, Shanhe Lou, Jianrong Tan. A semantic analysis driven customer requirements mining method for product conceptual design, <b>Scientific Reports</b>, 2022. (IF = 4.379)</li>
+
+</ol> 
 
 # 🏆 Honors and Awards
 - *2021.03*: Zhejiang University Graduation Scholarship (Top 2 postgraduates of each college in the graduation year)
@@ -49,6 +55,7 @@ redirect_from:
 
 
 # 💻 Internships and Activities
+- *2022.5*: A Poster was accepted for The 3rd International Workshop on Neural Engineering & Rehabilitation
 - *2017.11 - 2018.03*: Product Management Intern, Schindler China Headquarters, Shanghai. 
 - *2017.09*: Tongji University Welcome Days Volunteer.
 - *2015.04*: Coordinator of volunteers, China Auto Forum.
