@@ -24,7 +24,7 @@ redirect_from:
 **Reserarch Interest**: Brain-machine Interfaces, Robotics, Signal Processing
 
 # 📖 Educations
-- *2021.09 - Now*, Hong Kong University of Science and Technology, PhD student in Robotics and Autonomous Systems
+- *2021.09 - Now*, Hong Kong University of Science and Technology, PhD student in Individualized Interdisciplinary Program (Robotics and Autonomous Systems)
 - *2018.09 - 2021.03*, Zhejiang University, Master in Mechanical Engineering
 - *2013.09 - 2018.07*, Tongji University, Bachelor in Mechanical Engineering
 
